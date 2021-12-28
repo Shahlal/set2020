@@ -42,6 +42,7 @@
             <li class="nav-item"><a class="nav-link btn-outline-success" href="notices.php">Notice Board</a></li>
 <!--            <li class="nav-item"><a class="nav-link btn-outline-success" href="gallery.php">Image Gallery</a></li>-->
             <li class="nav-item"><a class="nav-link btn-outline-success" href="contact.php">Contact Us</a></li>
+            <li class="nav-item"><a class="nav-link btn-outline-success" href="login.php">Login/Register</a></li>
         </ul>
     </div>
 </nav>
@@ -535,13 +536,13 @@
                             <a href="##########" class="text-dark">Our Team</a>
                         </li>
                         <li>
-                            <a href="##########" class="text-dark">Link 2</a>
+                            <a href="##########" class="text-dark">Course Review</a>
                         </li>
                         <li>
-                            <a href="##########" class="text-dark">Link 3</a>
+                            <a href="##########" class="text-dark">Trainer Review</a>
                         </li>
                         <li>
-                            <a href="##########" class="text-dark">Link 4</a>
+                            <a href="##########" class="text-dark">Admin Login</a>
                         </li>
                     </ul>
                 </div>
